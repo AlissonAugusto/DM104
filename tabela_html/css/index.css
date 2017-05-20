@@ -1,0 +1,16 @@
+.table {
+    text-align:center; 
+    vertical-align:middle;
+    border: 2px solid red;
+    border-radius: 5px;
+    border-collapse: collapse;
+}
+
+.line1 {
+		background-color: #FFCC66;
+	}
+
+h1 {
+		color: #990000;
+		background-color: #FC9804;
+	}
